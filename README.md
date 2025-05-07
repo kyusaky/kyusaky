@@ -1,8 +1,7 @@
 Проекты на чистом html, css:
-- [Inhouse]https://github.com/kyusaky/tex
-- [не знаю как назвать]https://github.com/kyusaky/main_project
-
+- [Верстка сайта]https://github.com/kyusaky/tex
+  
 Проекты на js:
-- 
+- [еще пока в разработке. Игры разума]
 
 
