@@ -1,6 +1,6 @@
-### Hi there 👋
-
-
-- 🌱 I’m currently a Hexlet College Student
+Проекты на чистом html, css:
+- 
+Проекты на js:
+- 
 
 
